@@ -1,0 +1,19 @@
+.parent {
+    -fx-background-color: #ffffff;
+}
+.button {
+    -fx-background-color: #a1a1a1;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 2px;
+}
+.button:hover {
+    -fx-background-color: transparent;
+    -fx-background-radius: 2px;
+    -fx-text-fill: #a1a1a1;
+    -fx-border-color: #a1a1a1;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-radius: 2px;
+}
+.entrancesTextField {
+}
